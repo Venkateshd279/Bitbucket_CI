@@ -1,5 +1,7 @@
 
-# Roadmap
+# Bitbucket Continous Integration 
+
+## Build docker image and push to dockerhub. 
 
 - Create Bitbucket account
 
